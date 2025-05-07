@@ -21,3 +21,17 @@ Match Shades: Suggests optimal makeup shades based on color theory and machine l
 AR Preview: User can try on recommended makeup in real-time using AR.
 
 Shop Directly: One-tap access to buy from major beauty retailers.
+
+
+Run in VsCode :
+ download - python3 version
+ download dependencies :--
+ pip install ttkbootstrap
+ pip install opencv -python scikit-learn 
+ pip install request
+
+ once dependencies are done 
+
+ run -- python3 app.py
+ ![Screenshot 2025-05-07 125427](https://github.com/user-attachments/assets/8f73d1c1-acb2-4d62-ba0d-b73ca3dfa82b)
+
